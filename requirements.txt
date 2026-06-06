@@ -3,3 +3,6 @@ numpy
 seaborn
 matplotlib
 scipy
+scikit-learn
+lightgbm
+xgboost-cpu
